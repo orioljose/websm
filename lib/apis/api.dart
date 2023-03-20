@@ -10,4 +10,5 @@ class Api extends GetConnect {
   String gurl = 'http://localhost:5000';
 
   Future<Response> login(Map data) => post('$gurl/login', data);
+  Future<Response> cargarfile(Map data) => post('$gurl/cargarfile', data);
 }
