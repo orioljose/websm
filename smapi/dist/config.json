@@ -1,0 +1,1 @@
+{"_default": {"1": {"type": "config", "host": "localhost", "puerto": "5433", "usuario": "postgres", "password": "softmaster", "db": "libreria", "actividad": "3"}}}
